@@ -101,6 +101,7 @@ start_time, hour, day, week, month, year, weekday
 
 **Time Table**
 
-<img src="/images/time_table.png" height="200" width="600">
+<img src="/images/time_table.png" height="200" width="400">
 
 <!-- ![timetable]() -->
+

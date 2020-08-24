@@ -95,7 +95,7 @@ start_time, hour, day, week, month, year, weekday
 
 **users Table**
 
-<img src="/images/users_table.png" height="200" width="600">
+<img src="/images/users_table.png" height="200" width="400">
 
 <!-- ![userstable]() -->
 

@@ -71,6 +71,10 @@ start_time, hour, day, week, month, year, weekday
 <img src="/images/schema.png" height="400" width="400">
 </div>
 
+**Importance of Fact and Dimension tables**
+
+Fact tables capture the facts & measure of interests from the user log history by session, like which song is play at which moment, from which agent and location. While the Dimension tables store the additional information of the songs, artists, users, and time in separate tables. These additional knowledge can be obtained by joining the fact table with the appropriate dimension table. This reduces the data duplication in the one single table holding the entire information.
+
 ### How to use
 
 1. Clone the repository

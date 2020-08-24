@@ -68,6 +68,8 @@ time - timestamps of records in songplays broken down into specific units
 
 start_time, hour, day, week, month, year, weekday
 
+<img src="/images/schema.png" height="300" width="300">
+
 ### How to use
 
 1. Clone the repository

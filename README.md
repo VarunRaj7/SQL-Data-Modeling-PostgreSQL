@@ -67,9 +67,9 @@ artist_id, name, location, latitude, longitude
 time - timestamps of records in songplays broken down into specific units
 
 start_time, hour, day, week, month, year, weekday
-
-<img src="/images/schema.png" height="300" width="300">
-
+<div align='center'>
+<img src="/images/schema.png" height="400" width="400">
+</div>
 ### How to use
 
 1. Clone the repository

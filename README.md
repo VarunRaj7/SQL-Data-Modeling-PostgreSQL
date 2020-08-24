@@ -95,12 +95,12 @@ start_time, hour, day, week, month, year, weekday
 
 **users Table**
 
-<img src="/images/users_table.png" height="250" width="600">
+<img src="/images/users_table.png" height="200" width="600">
 
 <!-- ![userstable]() -->
 
 **Time Table**
 
-<img src="/images/time_table.png" height="250" width="600">
+<img src="/images/time_table.png" height="200" width="600">
 
 <!-- ![timetable]() -->

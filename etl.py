@@ -4,6 +4,10 @@ import psycopg2
 import pandas as pd
 from sql_queries import *
 
+"""
+Process song data and append the data to the
+songs and artists data files
+"""
 
 def process_song_file(cur, filepath):
     # open song file
@@ -30,6 +34,12 @@ def process_song_file(cur, filepath):
     with open('artists_data.csv', 'a') as fx:
         for index, row in df.iterrows():
             fx.write(row['artist_id']+'|'+row['artist_name']+'|'+ row['artist_location']+'|'+str(row['artist_latitude'])+'|'+str(row['artist_longitude'])+'\n')
+        
+
+"""
+Process log data and append the data to the
+users, time and songplays data files
+"""
         
 def process_log_file(cur, filepath):
     # open log file
@@ -117,7 +127,10 @@ def process_data(cur, conn, filepath, func):
         # conn.commit()
         print('{}/{} files processed.'.format(i, num_files))
 
-
+"""
+Main function that runs the entire code
+"""
+        
 def main():
     conn = psycopg2.connect("host=127.0.0.1 dbname=sparkifydb user=student password=student")
     cur = conn.cursor()
@@ -135,7 +148,7 @@ def main():
     process_data(cur, conn, filepath='data/song_data', func=process_song_file)
     process_data(cur, conn, filepath='data/log_data', func=process_log_file)
     
-    ## Remove duplicats in first three files 
+    ## Remove duplicates in first three files 
     ## by replacing the old one with the last one
     for file in dataFiles[:3]:
         temp_df = pd.read_csv(file, sep='|', header=None)

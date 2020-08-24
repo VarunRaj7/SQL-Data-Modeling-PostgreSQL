@@ -89,18 +89,18 @@ start_time, hour, day, week, month, year, weekday
 
 **artist Table**
 
-<img src="/images/artist_table.png" width="48">
+<img src="/images/artist_table.png" height="500" width="300">
 
 <!-- ![artisttable]() -->
 
 **users Table**
 
-<img src="/images//images/users_table.png" width="48">
+<img src="/images//images/users_table.png" height="500" width="300">
 
 <!-- ![userstable]() -->
 
 **Time Table**
 
-<img src="/images/time_table.png" width="48">
+<img src="/images/time_table.png" height="500" width="300">
 
 <!-- ![timetable]() -->

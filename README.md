@@ -70,6 +70,7 @@ start_time, hour, day, week, month, year, weekday
 <div align='center'>
 <img src="/images/schema.png" height="400" width="400">
 </div>
+
 ### How to use
 
 1. Clone the repository

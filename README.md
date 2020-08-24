@@ -9,7 +9,8 @@ The files description is given below:
 3. sql_queries.py - This python file contains the SQL queries for the creation, insertion and selection needs for the data modelling. These are imported in the other files to execute.
 4. test.ipynb - This Jupyter notebook is created to test the data inserted into the tables.
 5. etl.ipynd - This Jupyter notebook will discuss the process of ETL to insert the data tables.
-6. etl,py - This is the final python file that performs the ETL at one go.
+6. etl.py - This is the final python file that performs the ETL at one go. However, this will insert the record one after the other into the table.
+7. etlX.py - This is the python file that performs ETL, with bulk insertion of data using copy_from() function in psycopg2.
 
 #### About Data 
 
@@ -69,7 +70,15 @@ start_time, hour, day, week, month, year, weekday
 
 1. Clone the repository
 2. Run the PostgreSQL locally on 127.0.0.1
-3. Go through the etl.ipynb for the step by step explanation of ETL
-4. Run etl.py to perform ETL for songs and logs data
-5. Query the table using the queries in test.ipynb
+3. Everytime you need to create a new set of tables, run python create_tables.py MUST before going to etl.ipynb or etl.py.
+4. Go through the etl.ipynb for the step by step explanation of ETL
+5. Run etl.py or etlX.py to perform ETL for songs and logs data
+6. Query the table using the queries in test.ipynb
+
+### Tables:
+
+**Songplays Table**
+
+![songstable](/images/Songplays_table.png)
+
 

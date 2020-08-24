@@ -6818,169 +6818,727 @@
 6817|1542574836796|29|paid|||589|Atlanta-Sandy Springs-Roswell, GA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.78.2 (KHTML, like Gecko) Version/7.0.6 Safari/537.78.2
 6818|1542574895796|49|paid|||695|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
 6819|1542582164796|86|free|||687|La Crosse-Onalaska, WI-MN|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.94 Safari/537.36
-6820|1541121934796|101|free|||184|New Orleans-Metairie, LA|Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
-6821|1541122241796|83|free|||82|Lubbock, TX|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
-6822|1541122457796|83|free|||82|Lubbock, TX|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
-6823|1541126568796|66|free|||153|Harrisburg-Carlisle, PA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
-6824|1541127957796|48|free|||47|Salinas, CA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
-6825|1541129674796|86|free|||170|La Crosse-Onalaska, WI-MN|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.94 Safari/537.36
-6826|1541135741796|17|free|||118|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
-6827|1541137949796|66|free|||187|Harrisburg-Carlisle, PA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
-6828|1541149281796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
-6829|1541149456796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
-6830|1541149698796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
-6831|1541149952796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
-6832|1541150017796|89|free|||88|Cedar Rapids, IA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
-6833|1541150176796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
-6834|1541150355796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
-6835|1541150563796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
-6836|1541150809796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
-6837|1541151060796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
-6838|1541151325796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
-6839|1541151611796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
-6840|1541151743796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
-6841|1541152021796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
-6842|1541152223796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
-6843|1541152499796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
-6844|1541152676796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
-6845|1541152940796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
-6846|1541153045796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
-6847|1541153263796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
-6848|1541153484796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
-6849|1541153639796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
-6850|1541153958796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
-6851|1541154085796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
-6852|1541154252796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
-6853|1541154546796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
-6854|1541154791796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
-6855|1541155108796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
-6856|1541155342796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
-6857|1541155661796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
-6858|1541155991796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
-6859|1541156359796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
-6860|1541156671796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
-6861|1541156867796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
-6862|1541157193796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
-6863|1541157430796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
-6864|1541157631796|80|free|||165|Portland-South Portland, ME|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
-6865|1541157637796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
-6866|1541157674796|44|paid|||157|Waterloo-Cedar Falls, IA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:31.0) Gecko/20100101 Firefox/31.0
-6867|1541157808796|44|paid|||157|Waterloo-Cedar Falls, IA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:31.0) Gecko/20100101 Firefox/31.0
-6868|1541157850796|80|free|||165|Portland-South Portland, ME|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
-6869|1541157930796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
-6870|1541158064796|88|free|||87|Sacramento--Roseville--Arden-Arcade, CA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
-6871|1541158069796|44|paid|||157|Waterloo-Cedar Falls, IA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:31.0) Gecko/20100101 Firefox/31.0
-6872|1541158176796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
-6873|1541158225796|80|free|||165|Portland-South Portland, ME|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
-6874|1541158307796|44|paid|||157|Waterloo-Cedar Falls, IA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:31.0) Gecko/20100101 Firefox/31.0
-6875|1541158400796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
-6876|1541158486796|44|paid|||157|Waterloo-Cedar Falls, IA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:31.0) Gecko/20100101 Firefox/31.0
-6877|1541158598796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
-6878|1541158780796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
-6879|1541158843796|44|paid|||157|Waterloo-Cedar Falls, IA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:31.0) Gecko/20100101 Firefox/31.0
-6880|1541158999796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
-6881|1541159048796|44|paid|||157|Waterloo-Cedar Falls, IA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:31.0) Gecko/20100101 Firefox/31.0
-6882|1541159229796|44|paid|||157|Waterloo-Cedar Falls, IA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:31.0) Gecko/20100101 Firefox/31.0
-6883|1541159299796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
-6884|1541159518796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
-6885|1541159539796|44|paid|||157|Waterloo-Cedar Falls, IA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:31.0) Gecko/20100101 Firefox/31.0
-6886|1541159737796|44|paid|||157|Waterloo-Cedar Falls, IA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:31.0) Gecko/20100101 Firefox/31.0
-6887|1541159803796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
-6888|1541159966796|44|paid|||157|Waterloo-Cedar Falls, IA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:31.0) Gecko/20100101 Firefox/31.0
-6889|1541160045796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
-6890|1541160161796|49|free|||179|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
-6891|1541160187796|44|paid|||157|Waterloo-Cedar Falls, IA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:31.0) Gecko/20100101 Firefox/31.0
-6892|1541160297796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
-6893|1541160443796|44|paid|||157|Waterloo-Cedar Falls, IA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:31.0) Gecko/20100101 Firefox/31.0
-6894|1541160570796|49|free|||179|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
-6895|1541160592796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
-6896|1541160692796|44|paid|||157|Waterloo-Cedar Falls, IA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:31.0) Gecko/20100101 Firefox/31.0
-6897|1541160714796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
-6898|1541160895796|44|paid|||157|Waterloo-Cedar Falls, IA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:31.0) Gecko/20100101 Firefox/31.0
-6899|1541160936796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
-6900|1541161024796|44|paid|||157|Waterloo-Cedar Falls, IA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:31.0) Gecko/20100101 Firefox/31.0
-6901|1541161144796|86|free|||189|La Crosse-Onalaska, WI-MN|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.94 Safari/537.36
-6902|1541161175796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
-6903|1541161381796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
-6904|1541161550796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
-6905|1541161822796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
-6906|1541162141796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
-6907|1541162370796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
-6908|1541162691796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
-6909|1541162912796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
-6910|1541163225796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
-6911|1541163454796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
-6912|1541163717796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
-6913|1541163997796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
-6914|1541164243796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
-6915|1541164499796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
-6916|1541164706796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
-6917|1541164749796|100|free|||174|New York-Newark-Jersey City, NY-NJ-PA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.78.2 (KHTML, like Gecko) Version/7.0.6 Safari/537.78.2
-6918|1541164945796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
-6919|1541165138796|100|free|||174|New York-Newark-Jersey City, NY-NJ-PA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.78.2 (KHTML, like Gecko) Version/7.0.6 Safari/537.78.2
-6920|1541165328796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
-6921|1541165410796|100|free|||174|New York-Newark-Jersey City, NY-NJ-PA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.78.2 (KHTML, like Gecko) Version/7.0.6 Safari/537.78.2
-6922|1541165583796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
-6923|1541165904796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
-6924|1541166099796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
-6925|1541166273796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
-6926|1541166621796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
-6927|1541166847796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
-6928|1541167096796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
-6929|1541168577796|80|free|||194|Portland-South Portland, ME|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
-6930|1541168813796|80|free|||194|Portland-South Portland, ME|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
-6931|1541169160796|80|free|||194|Portland-South Portland, ME|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
-6932|1541170090796|86|free|||197|La Crosse-Onalaska, WI-MN|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.94 Safari/537.36
-6933|1541172234796|26|free|||183|San Jose-Sunnyvale-Santa Clara, CA|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
-6934|1541172424796|26|free|||183|San Jose-Sunnyvale-Santa Clara, CA|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
-6935|1541172593796|26|free|||183|San Jose-Sunnyvale-Santa Clara, CA|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
-6936|1541172804796|26|free|||183|San Jose-Sunnyvale-Santa Clara, CA|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
-6937|1541173059796|26|free|||183|San Jose-Sunnyvale-Santa Clara, CA|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
-6938|1541173221796|61|free|||60|Houston-The Woodlands-Sugar Land, TX|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
-6939|1541173396796|61|free|||60|Houston-The Woodlands-Sugar Land, TX|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
-6940|1541174803796|88|free|||193|Sacramento--Roseville--Arden-Arcade, CA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
-6941|1541175054796|88|free|||193|Sacramento--Roseville--Arden-Arcade, CA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
-6942|1541175153796|88|free|||193|Sacramento--Roseville--Arden-Arcade, CA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
-6943|1541175433796|88|free|||193|Sacramento--Roseville--Arden-Arcade, CA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
-6944|1541175530796|75|free|||167|Columbia, SC|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.75.14 (KHTML, like Gecko) Version/7.0.3 Safari/537.75.14
-6945|1541175733796|75|free|||167|Columbia, SC|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.75.14 (KHTML, like Gecko) Version/7.0.3 Safari/537.75.14
-6946|1541175894796|75|free|||167|Columbia, SC|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.75.14 (KHTML, like Gecko) Version/7.0.3 Safari/537.75.14
-6947|1541176076796|75|free|||167|Columbia, SC|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.75.14 (KHTML, like Gecko) Version/7.0.3 Safari/537.75.14
-6948|1541176254796|75|free|||167|Columbia, SC|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.75.14 (KHTML, like Gecko) Version/7.0.3 Safari/537.75.14
-6949|1541176327796|88|free|||205|Sacramento--Roseville--Arden-Arcade, CA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
-6950|1541176371796|88|free|||205|Sacramento--Roseville--Arden-Arcade, CA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
-6951|1541176487796|75|free|||167|Columbia, SC|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.75.14 (KHTML, like Gecko) Version/7.0.3 Safari/537.75.14
-6952|1541176500796|50|free|||156|New Haven-Milford, CT|Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
-6953|1541176735796|75|free|||167|Columbia, SC|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.75.14 (KHTML, like Gecko) Version/7.0.3 Safari/537.75.14
-6954|1541176739796|50|free|||156|New Haven-Milford, CT|Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
-6955|1541177162796|75|free|||167|Columbia, SC|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.75.14 (KHTML, like Gecko) Version/7.0.3 Safari/537.75.14
-6956|1541177384796|75|free|||167|Columbia, SC|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.75.14 (KHTML, like Gecko) Version/7.0.3 Safari/537.75.14
-6957|1541177497796|75|free|||167|Columbia, SC|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.75.14 (KHTML, like Gecko) Version/7.0.3 Safari/537.75.14
-6958|1541177709796|75|free|||167|Columbia, SC|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.75.14 (KHTML, like Gecko) Version/7.0.3 Safari/537.75.14
-6959|1541178038796|75|free|||167|Columbia, SC|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.75.14 (KHTML, like Gecko) Version/7.0.3 Safari/537.75.14
-6960|1541178784796|10|free|||182|Washington-Arlington-Alexandria, DC-VA-MD-WV|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
-6961|1541179117796|10|free|||182|Washington-Arlington-Alexandria, DC-VA-MD-WV|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
-6962|1541179528796|10|free|||182|Washington-Arlington-Alexandria, DC-VA-MD-WV|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
-6963|1541179905796|10|free|||182|Washington-Arlington-Alexandria, DC-VA-MD-WV|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
-6964|1541181317796|50|free|||207|New Haven-Milford, CT|Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
-6965|1541181542796|50|free|||207|New Haven-Milford, CT|Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
-6966|1541181762796|50|free|||207|New Haven-Milford, CT|Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
-6967|1541183813796|71|free|||70|Columbia, SC|Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D201 Safari/9537.53
-6968|1541183943796|71|free|||70|Columbia, SC|Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D201 Safari/9537.53
-6969|1541184144796|71|free|||70|Columbia, SC|Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D201 Safari/9537.53
-6970|1541184339796|71|free|||70|Columbia, SC|Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D201 Safari/9537.53
-6971|1541187675796|54|free|||53|Yuba City, CA|Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
-6972|1541191023796|3|free|||112|Saginaw, MI|Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
-6973|1541191251796|3|free|||112|Saginaw, MI|Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
-6974|1541191397796|3|free|||112|Saginaw, MI|Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
-6975|1541106106796|8|free|||139|Phoenix-Mesa-Scottsdale, AZ|Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36
-6976|1541106352796|8|free|||139|Phoenix-Mesa-Scottsdale, AZ|Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36
-6977|1541106496796|8|free|||139|Phoenix-Mesa-Scottsdale, AZ|Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36
-6978|1541106673796|8|free|||139|Phoenix-Mesa-Scottsdale, AZ|Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36
-6979|1541107053796|8|free|||139|Phoenix-Mesa-Scottsdale, AZ|Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36
-6980|1541107493796|8|free|||139|Phoenix-Mesa-Scottsdale, AZ|Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36
-6981|1541107734796|8|free|||139|Phoenix-Mesa-Scottsdale, AZ|Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36
-6982|1541108520796|10|free|||9|Washington-Arlington-Alexandria, DC-VA-MD-WV|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
-6983|1541109125796|26|free|||169|San Jose-Sunnyvale-Santa Clara, CA|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
-6984|1541109325796|26|free|||169|San Jose-Sunnyvale-Santa Clara, CA|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
-6985|1541110994796|101|free|||100|New Orleans-Metairie, LA|Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+6820|1542931645796|66|free|||815|Harrisburg-Carlisle, PA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+6821|1542931860796|66|free|||815|Harrisburg-Carlisle, PA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+6822|1542932064796|66|free|||815|Harrisburg-Carlisle, PA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+6823|1542932236796|66|free|||815|Harrisburg-Carlisle, PA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+6824|1542932445796|66|free|||815|Harrisburg-Carlisle, PA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+6825|1542932711796|66|free|||815|Harrisburg-Carlisle, PA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+6826|1542932970796|66|free|||815|Harrisburg-Carlisle, PA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+6827|1542933235796|66|free|||815|Harrisburg-Carlisle, PA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+6828|1542933485796|66|free|||815|Harrisburg-Carlisle, PA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+6829|1542933752796|66|free|||815|Harrisburg-Carlisle, PA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+6830|1542933907796|63|free|||839|Santa Rosa, CA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+6831|1542934142796|63|free|||839|Santa Rosa, CA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+6832|1542936896796|58|paid|||821|Augusta-Richmond County, GA-SC|Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+6833|1542937164796|58|paid|||821|Augusta-Richmond County, GA-SC|Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+6834|1542940536796|26|free|||845|San Jose-Sunnyvale-Santa Clara, CA|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
+6835|1542940776796|26|free|||845|San Jose-Sunnyvale-Santa Clara, CA|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
+6836|1542944904796|16|paid|||617|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+6837|1542945156796|16|paid|||617|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+6838|1542945478796|16|paid|||617|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+6839|1542945673796|16|paid|||617|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+6840|1542945891796|16|paid|||617|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+6841|1542945981796|16|paid|||617|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+6842|1542946196796|16|paid|||617|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+6843|1542952618796|66|free|||850|Harrisburg-Carlisle, PA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+6844|1542952991796|66|free|||850|Harrisburg-Carlisle, PA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+6845|1542953278796|6|free|||847|Atlanta-Sandy Springs-Roswell, GA|Mozilla/5.0 (Windows NT 6.1; WOW64; rv:32.0) Gecko/20100101 Firefox/32.0
+6846|1542953346796|66|free|||850|Harrisburg-Carlisle, PA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+6847|1542953502796|6|free|||847|Atlanta-Sandy Springs-Roswell, GA|Mozilla/5.0 (Windows NT 6.1; WOW64; rv:32.0) Gecko/20100101 Firefox/32.0
+6848|1542953722796|6|free|||847|Atlanta-Sandy Springs-Roswell, GA|Mozilla/5.0 (Windows NT 6.1; WOW64; rv:32.0) Gecko/20100101 Firefox/32.0
+6849|1542954496796|69|free|||791|Philadelphia-Camden-Wilmington, PA-NJ-DE-MD|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+6850|1542956736796|50|free|||836|New Haven-Milford, CT|Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+6851|1542958442796|53|free|||826|Klamath Falls, OR|Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.103 Safari/537.36
+6852|1542959440796|56|free|||131|New York-Newark-Jersey City, NY-NJ-PA|Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.94 Safari/537.36
+6853|1542959497796|94|free|||755|Ogden-Clearfield, UT|Mozilla/5.0 (Windows NT 6.1; WOW64; rv:32.0) Gecko/20100101 Firefox/32.0
+6854|1542959637796|56|free|||131|New York-Newark-Jersey City, NY-NJ-PA|Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.94 Safari/537.36
+6855|1542959700796|94|free|||755|Ogden-Clearfield, UT|Mozilla/5.0 (Windows NT 6.1; WOW64; rv:32.0) Gecko/20100101 Firefox/32.0
+6856|1542969549796|98|free|||357|Philadelphia-Camden-Wilmington, PA-NJ-DE-MD|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+6857|1542969827796|98|free|||357|Philadelphia-Camden-Wilmington, PA-NJ-DE-MD|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+6858|1542970639796|90|free|||745|Pensacola-Ferry Pass-Brent, FL|Mozilla/5.0 (X11; Linux x86_64; rv:31.0) Gecko/20100101 Firefox/31.0
+6859|1542970955796|80|paid|||848|Portland-South Portland, ME|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+6860|1542971045796|90|free|||745|Pensacola-Ferry Pass-Brent, FL|Mozilla/5.0 (X11; Linux x86_64; rv:31.0) Gecko/20100101 Firefox/31.0
+6861|1542971610796|80|paid|||848|Portland-South Portland, ME|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+6862|1542971668796|80|paid|||848|Portland-South Portland, ME|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+6863|1542971870796|80|paid|||848|Portland-South Portland, ME|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+6864|1542972160796|80|paid|||848|Portland-South Portland, ME|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+6865|1542972389796|80|paid|||848|Portland-South Portland, ME|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+6866|1542972737796|80|paid|||848|Portland-South Portland, ME|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+6867|1542972948796|80|paid|||848|Portland-South Portland, ME|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+6868|1542973064796|16|paid|||854|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+6869|1542973185796|80|paid|||848|Portland-South Portland, ME|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+6870|1542973372796|80|paid|||848|Portland-South Portland, ME|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+6871|1542973411796|16|paid|||854|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+6872|1542973634796|80|paid|||848|Portland-South Portland, ME|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+6873|1542973836796|16|paid|||854|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+6874|1542973960796|80|paid|||848|Portland-South Portland, ME|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+6875|1542974061796|16|paid|||854|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+6876|1542974350796|16|paid|||854|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+6877|1542974485796|80|paid|||848|Portland-South Portland, ME|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+6878|1542974573796|16|paid|||854|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+6879|1542974704796|80|paid|||848|Portland-South Portland, ME|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+6880|1542974878796|16|paid|||854|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+6881|1542974913796|80|paid|||848|Portland-South Portland, ME|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+6882|1542975118796|80|paid|||848|Portland-South Portland, ME|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+6883|1542975168796|16|paid|||854|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+6884|1542975342796|80|paid|||848|Portland-South Portland, ME|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+6885|1542975440796|16|paid|||854|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+6886|1542975669796|80|paid|||848|Portland-South Portland, ME|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+6887|1542975820796|80|paid|||848|Portland-South Portland, ME|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+6888|1542976093796|80|paid|||848|Portland-South Portland, ME|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+6889|1542976230796|16|paid|||854|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+6890|1542976434796|80|paid|||848|Portland-South Portland, ME|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+6891|1542976495796|16|paid|||854|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+6892|1542976662796|80|paid|||848|Portland-South Portland, ME|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+6893|1542976710796|16|paid|||854|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+6894|1542976932796|80|paid|||848|Portland-South Portland, ME|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+6895|1542976946796|16|paid|||854|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+6896|1542977167796|16|paid|||854|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+6897|1542977184796|80|paid|||848|Portland-South Portland, ME|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+6898|1542977421796|16|paid|||854|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+6899|1542977445796|80|paid|||848|Portland-South Portland, ME|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+6900|1542977496796|86|free|||760|La Crosse-Onalaska, WI-MN|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.94 Safari/537.36
+6901|1542977553796|26|free|||853|San Jose-Sunnyvale-Santa Clara, CA|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
+6902|1542977669796|86|free|||760|La Crosse-Onalaska, WI-MN|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.94 Safari/537.36
+6903|1542977690796|16|paid|||854|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+6904|1542977884796|80|paid|||848|Portland-South Portland, ME|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+6905|1542978240796|16|paid|||854|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+6906|1542983106796|26|free|||868|San Jose-Sunnyvale-Santa Clara, CA|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
+6907|1542983270796|40|free|||798|Oxnard-Thousand Oaks-Ventura, CA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+6908|1542983934796|30|paid|||691|San Jose-Sunnyvale-Santa Clara, CA|Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+6909|1542984111796|60|free|||765|Tampa-St. Petersburg-Clearwater, FL|Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+6910|1542984111796|30|paid|||691|San Jose-Sunnyvale-Santa Clara, CA|Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+6911|1542984352796|30|paid|||691|San Jose-Sunnyvale-Santa Clara, CA|Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+6912|1542984469796|60|free|||765|Tampa-St. Petersburg-Clearwater, FL|Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+6913|1542984626796|30|paid|||691|San Jose-Sunnyvale-Santa Clara, CA|Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+6914|1542984835796|30|paid|||691|San Jose-Sunnyvale-Santa Clara, CA|Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+6915|1542985259796|61|free|||748|Houston-The Woodlands-Sugar Land, TX|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+6916|1542985383796|30|paid|||691|San Jose-Sunnyvale-Santa Clara, CA|Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+6917|1542985481796|30|paid|||691|San Jose-Sunnyvale-Santa Clara, CA|Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+6918|1542985733796|30|paid|||691|San Jose-Sunnyvale-Santa Clara, CA|Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+6919|1542985936796|30|paid|||691|San Jose-Sunnyvale-Santa Clara, CA|Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+6920|1542986113796|30|paid|||691|San Jose-Sunnyvale-Santa Clara, CA|Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+6921|1542986243796|24|paid|||809|Lake Havasu City-Kingman, AZ|Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+6922|1542986250796|30|paid|||691|San Jose-Sunnyvale-Santa Clara, CA|Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+6923|1542986477796|30|paid|||691|San Jose-Sunnyvale-Santa Clara, CA|Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+6924|1542986481796|24|paid|||809|Lake Havasu City-Kingman, AZ|Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+6925|1542986866796|24|paid|||809|Lake Havasu City-Kingman, AZ|Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+6926|1542986892796|30|paid|||691|San Jose-Sunnyvale-Santa Clara, CA|Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+6927|1542986963796|53|free|||860|Klamath Falls, OR|Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.103 Safari/537.36
+6928|1542986986796|24|paid|||809|Lake Havasu City-Kingman, AZ|Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+6929|1542987049796|30|paid|||691|San Jose-Sunnyvale-Santa Clara, CA|Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+6930|1542987097796|10|free|||864|Washington-Arlington-Alexandria, DC-VA-MD-WV|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+6931|1542987190796|53|free|||860|Klamath Falls, OR|Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.103 Safari/537.36
+6932|1542987204796|24|paid|||809|Lake Havasu City-Kingman, AZ|Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+6933|1542987432796|30|paid|||691|San Jose-Sunnyvale-Santa Clara, CA|Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+6934|1542987678796|30|paid|||691|San Jose-Sunnyvale-Santa Clara, CA|Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+6935|1542987869796|58|paid|||852|Augusta-Richmond County, GA-SC|Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+6936|1542987935796|30|paid|||691|San Jose-Sunnyvale-Santa Clara, CA|Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+6937|1542988099796|30|paid|||691|San Jose-Sunnyvale-Santa Clara, CA|Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+6938|1542988140796|58|paid|||852|Augusta-Richmond County, GA-SC|Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+6939|1542988354796|88|paid|||812|Sacramento--Roseville--Arden-Arcade, CA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+6940|1542988360796|58|paid|||852|Augusta-Richmond County, GA-SC|Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+6941|1542988430796|88|paid|||812|Sacramento--Roseville--Arden-Arcade, CA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+6942|1542988464796|30|paid|||691|San Jose-Sunnyvale-Santa Clara, CA|Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+6943|1542988607796|58|paid|||852|Augusta-Richmond County, GA-SC|Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+6944|1542988650796|88|paid|||812|Sacramento--Roseville--Arden-Arcade, CA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+6945|1542988724796|30|paid|||691|San Jose-Sunnyvale-Santa Clara, CA|Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+6946|1542988853796|58|paid|||852|Augusta-Richmond County, GA-SC|Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+6947|1542988858796|30|paid|||691|San Jose-Sunnyvale-Santa Clara, CA|Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+6948|1542988859796|17|free|||732|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+6949|1542988867796|88|paid|||812|Sacramento--Roseville--Arden-Arcade, CA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+6950|1542989075796|58|paid|||852|Augusta-Richmond County, GA-SC|Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+6951|1542989127796|30|paid|||691|San Jose-Sunnyvale-Santa Clara, CA|Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+6952|1542989233796|88|paid|||812|Sacramento--Roseville--Arden-Arcade, CA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+6953|1542989294796|58|paid|||852|Augusta-Richmond County, GA-SC|Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+6954|1542989362796|30|paid|||691|San Jose-Sunnyvale-Santa Clara, CA|Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+6955|1542989588796|58|paid|||852|Augusta-Richmond County, GA-SC|Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+6956|1542989590796|30|paid|||691|San Jose-Sunnyvale-Santa Clara, CA|Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+6957|1542989810796|88|paid|||812|Sacramento--Roseville--Arden-Arcade, CA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+6958|1542989812796|30|paid|||691|San Jose-Sunnyvale-Santa Clara, CA|Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+6959|1542989830796|58|paid|||852|Augusta-Richmond County, GA-SC|Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+6960|1542990021796|30|paid|||691|San Jose-Sunnyvale-Santa Clara, CA|Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+6961|1542990052796|88|paid|||812|Sacramento--Roseville--Arden-Arcade, CA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+6962|1542990111796|58|paid|||852|Augusta-Richmond County, GA-SC|Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+6963|1542990177796|30|paid|||691|San Jose-Sunnyvale-Santa Clara, CA|Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+6964|1542990262796|58|paid|||852|Augusta-Richmond County, GA-SC|Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+6965|1542990339796|88|paid|||812|Sacramento--Roseville--Arden-Arcade, CA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+6966|1542990362796|58|paid|||852|Augusta-Richmond County, GA-SC|Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+6967|1542990389796|30|paid|||691|San Jose-Sunnyvale-Santa Clara, CA|Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+6968|1542990577796|58|paid|||852|Augusta-Richmond County, GA-SC|Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+6969|1542990620796|88|paid|||812|Sacramento--Roseville--Arden-Arcade, CA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+6970|1542990659796|30|paid|||691|San Jose-Sunnyvale-Santa Clara, CA|Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+6971|1542990754796|88|paid|||812|Sacramento--Roseville--Arden-Arcade, CA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+6972|1542990783796|58|paid|||852|Augusta-Richmond County, GA-SC|Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+6973|1542990888796|30|paid|||691|San Jose-Sunnyvale-Santa Clara, CA|Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+6974|1542990935796|88|paid|||812|Sacramento--Roseville--Arden-Arcade, CA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+6975|1542991019796|58|paid|||852|Augusta-Richmond County, GA-SC|Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+6976|1542991086796|30|paid|||691|San Jose-Sunnyvale-Santa Clara, CA|Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+6977|1542991283796|88|paid|||812|Sacramento--Roseville--Arden-Arcade, CA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+6978|1542991355796|58|paid|||852|Augusta-Richmond County, GA-SC|Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+6979|1542991499796|58|paid|||852|Augusta-Richmond County, GA-SC|Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+6980|1542991550796|88|paid|||812|Sacramento--Roseville--Arden-Arcade, CA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+6981|1542991705796|58|paid|||852|Augusta-Richmond County, GA-SC|Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+6982|1542991831796|58|paid|||852|Augusta-Richmond County, GA-SC|Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+6983|1542991845796|88|paid|||812|Sacramento--Roseville--Arden-Arcade, CA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+6984|1542992073796|88|paid|||812|Sacramento--Roseville--Arden-Arcade, CA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+6985|1542992104796|58|paid|||852|Augusta-Richmond County, GA-SC|Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+6986|1542992337796|88|paid|||812|Sacramento--Roseville--Arden-Arcade, CA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+6987|1542992342796|58|paid|||852|Augusta-Richmond County, GA-SC|Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+6988|1542992455796|88|paid|||812|Sacramento--Roseville--Arden-Arcade, CA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+6989|1542992500796|58|paid|||852|Augusta-Richmond County, GA-SC|Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+6990|1542992707796|88|paid|||812|Sacramento--Roseville--Arden-Arcade, CA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+6991|1542992907796|32|free|||885|New York-Newark-Jersey City, NY-NJ-PA|Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+6992|1542992917796|58|paid|||852|Augusta-Richmond County, GA-SC|Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+6993|1542992997796|88|paid|||812|Sacramento--Roseville--Arden-Arcade, CA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+6994|1542993192796|88|paid|||812|Sacramento--Roseville--Arden-Arcade, CA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+6995|1542993212796|32|free|||885|New York-Newark-Jersey City, NY-NJ-PA|Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+6996|1542993250796|58|paid|||852|Augusta-Richmond County, GA-SC|Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+6997|1542993310796|58|paid|||852|Augusta-Richmond County, GA-SC|Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+6998|1542993417796|88|paid|||812|Sacramento--Roseville--Arden-Arcade, CA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+6999|1542993566796|58|paid|||852|Augusta-Richmond County, GA-SC|Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+7000|1542993823796|58|paid|||852|Augusta-Richmond County, GA-SC|Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+7001|1542993911796|88|paid|||812|Sacramento--Roseville--Arden-Arcade, CA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7002|1542994149796|58|paid|||852|Augusta-Richmond County, GA-SC|Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+7003|1542994205796|88|paid|||812|Sacramento--Roseville--Arden-Arcade, CA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7004|1542994380796|58|paid|||852|Augusta-Richmond County, GA-SC|Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+7005|1542994413796|88|paid|||812|Sacramento--Roseville--Arden-Arcade, CA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7006|1542994634796|58|paid|||852|Augusta-Richmond County, GA-SC|Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+7007|1542994686796|88|paid|||812|Sacramento--Roseville--Arden-Arcade, CA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7008|1542994802796|58|paid|||852|Augusta-Richmond County, GA-SC|Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+7009|1542994949796|88|paid|||812|Sacramento--Roseville--Arden-Arcade, CA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7010|1542994955796|58|paid|||852|Augusta-Richmond County, GA-SC|Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+7011|1542995239796|88|paid|||812|Sacramento--Roseville--Arden-Arcade, CA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7012|1542995241796|58|paid|||852|Augusta-Richmond County, GA-SC|Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+7013|1542995428796|88|paid|||812|Sacramento--Roseville--Arden-Arcade, CA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7014|1542995493796|88|paid|||812|Sacramento--Roseville--Arden-Arcade, CA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7015|1542995718796|88|paid|||812|Sacramento--Roseville--Arden-Arcade, CA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7016|1542995928796|88|paid|||812|Sacramento--Roseville--Arden-Arcade, CA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7017|1542996193796|88|paid|||812|Sacramento--Roseville--Arden-Arcade, CA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7018|1542996661796|86|free|||869|La Crosse-Onalaska, WI-MN|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.94 Safari/537.36
+7019|1542997076796|86|free|||869|La Crosse-Onalaska, WI-MN|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.94 Safari/537.36
+7020|1542997207796|86|free|||869|La Crosse-Onalaska, WI-MN|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.94 Safari/537.36
+7021|1542997701796|86|free|||869|La Crosse-Onalaska, WI-MN|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.94 Safari/537.36
+7022|1543000670796|85|paid|||793|Red Bluff, CA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7023|1543000737796|69|free|||858|Philadelphia-Camden-Wilmington, PA-NJ-DE-MD|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+7024|1543000858796|85|paid|||793|Red Bluff, CA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7025|1543001079796|85|paid|||793|Red Bluff, CA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7026|1543001288796|85|paid|||793|Red Bluff, CA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7027|1543001551796|85|paid|||793|Red Bluff, CA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7028|1543002255796|85|paid|||891|Red Bluff, CA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7029|1543002455796|85|paid|||891|Red Bluff, CA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7030|1543002723796|85|paid|||891|Red Bluff, CA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7031|1543003022796|85|paid|||891|Red Bluff, CA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7032|1543003215796|85|paid|||891|Red Bluff, CA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7033|1543003488796|85|paid|||891|Red Bluff, CA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7034|1543003635796|85|paid|||891|Red Bluff, CA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7035|1543003889796|85|paid|||891|Red Bluff, CA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7036|1543004147796|85|paid|||891|Red Bluff, CA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7037|1543004331796|85|paid|||891|Red Bluff, CA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7038|1543004986796|85|paid|||891|Red Bluff, CA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7039|1543005224796|85|paid|||891|Red Bluff, CA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7040|1543005521796|85|paid|||891|Red Bluff, CA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7041|1543005627796|86|free|||889|La Crosse-Onalaska, WI-MN|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.94 Safari/537.36
+7042|1543005822796|85|paid|||891|Red Bluff, CA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7043|1543006038796|85|paid|||891|Red Bluff, CA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7044|1543006230796|85|paid|||891|Red Bluff, CA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7045|1543006528796|85|paid|||891|Red Bluff, CA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7046|1543006758796|85|paid|||891|Red Bluff, CA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7047|1543006953796|85|paid|||891|Red Bluff, CA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7048|1543007062796|85|paid|||891|Red Bluff, CA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7049|1543007167796|85|paid|||891|Red Bluff, CA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7050|1543007442796|85|paid|||891|Red Bluff, CA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7051|1543007636796|85|paid|||891|Red Bluff, CA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7052|1543008072796|85|paid|||891|Red Bluff, CA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7053|1543008315796|85|paid|||891|Red Bluff, CA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7054|1543008501796|85|paid|||891|Red Bluff, CA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7055|1543009050796|85|paid|||891|Red Bluff, CA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7056|1543009189796|85|paid|||891|Red Bluff, CA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7057|1543009329796|85|paid|||891|Red Bluff, CA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7058|1543014528796|47|free|||488|New York-Newark-Jersey City, NY-NJ-PA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.78.2 (KHTML, like Gecko) Version/7.0.6 Safari/537.78.2
+7059|1541121934796|101|free|||184|New Orleans-Metairie, LA|Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7060|1541122241796|83|free|||82|Lubbock, TX|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7061|1541122457796|83|free|||82|Lubbock, TX|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7062|1541126568796|66|free|||153|Harrisburg-Carlisle, PA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+7063|1541127957796|48|free|||47|Salinas, CA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7064|1541129674796|86|free|||170|La Crosse-Onalaska, WI-MN|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.94 Safari/537.36
+7065|1541135741796|17|free|||118|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+7066|1541137949796|66|free|||187|Harrisburg-Carlisle, PA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+7067|1541149281796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
+7068|1541149456796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
+7069|1541149698796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
+7070|1541149952796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
+7071|1541150017796|89|free|||88|Cedar Rapids, IA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+7072|1541150176796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
+7073|1541150355796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
+7074|1541150563796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
+7075|1541150809796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
+7076|1541151060796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
+7077|1541151325796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
+7078|1541151611796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
+7079|1541151743796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
+7080|1541152021796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
+7081|1541152223796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
+7082|1541152499796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
+7083|1541152676796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
+7084|1541152940796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
+7085|1541153045796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
+7086|1541153263796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
+7087|1541153484796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
+7088|1541153639796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
+7089|1541153958796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
+7090|1541154085796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
+7091|1541154252796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
+7092|1541154546796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
+7093|1541154791796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
+7094|1541155108796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
+7095|1541155342796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
+7096|1541155661796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
+7097|1541155991796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
+7098|1541156359796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
+7099|1541156671796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
+7100|1541156867796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
+7101|1541157193796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
+7102|1541157430796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
+7103|1541157631796|80|free|||165|Portland-South Portland, ME|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7104|1541157637796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
+7105|1541157674796|44|paid|||157|Waterloo-Cedar Falls, IA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:31.0) Gecko/20100101 Firefox/31.0
+7106|1541157808796|44|paid|||157|Waterloo-Cedar Falls, IA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:31.0) Gecko/20100101 Firefox/31.0
+7107|1541157850796|80|free|||165|Portland-South Portland, ME|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7108|1541157930796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
+7109|1541158064796|88|free|||87|Sacramento--Roseville--Arden-Arcade, CA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7110|1541158069796|44|paid|||157|Waterloo-Cedar Falls, IA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:31.0) Gecko/20100101 Firefox/31.0
+7111|1541158176796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
+7112|1541158225796|80|free|||165|Portland-South Portland, ME|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7113|1541158307796|44|paid|||157|Waterloo-Cedar Falls, IA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:31.0) Gecko/20100101 Firefox/31.0
+7114|1541158400796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
+7115|1541158486796|44|paid|||157|Waterloo-Cedar Falls, IA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:31.0) Gecko/20100101 Firefox/31.0
+7116|1541158598796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
+7117|1541158780796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
+7118|1541158843796|44|paid|||157|Waterloo-Cedar Falls, IA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:31.0) Gecko/20100101 Firefox/31.0
+7119|1541158999796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
+7120|1541159048796|44|paid|||157|Waterloo-Cedar Falls, IA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:31.0) Gecko/20100101 Firefox/31.0
+7121|1541159229796|44|paid|||157|Waterloo-Cedar Falls, IA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:31.0) Gecko/20100101 Firefox/31.0
+7122|1541159299796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
+7123|1541159518796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
+7124|1541159539796|44|paid|||157|Waterloo-Cedar Falls, IA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:31.0) Gecko/20100101 Firefox/31.0
+7125|1541159737796|44|paid|||157|Waterloo-Cedar Falls, IA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:31.0) Gecko/20100101 Firefox/31.0
+7126|1541159803796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
+7127|1541159966796|44|paid|||157|Waterloo-Cedar Falls, IA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:31.0) Gecko/20100101 Firefox/31.0
+7128|1541160045796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
+7129|1541160161796|49|free|||179|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7130|1541160187796|44|paid|||157|Waterloo-Cedar Falls, IA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:31.0) Gecko/20100101 Firefox/31.0
+7131|1541160297796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
+7132|1541160443796|44|paid|||157|Waterloo-Cedar Falls, IA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:31.0) Gecko/20100101 Firefox/31.0
+7133|1541160570796|49|free|||179|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7134|1541160592796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
+7135|1541160692796|44|paid|||157|Waterloo-Cedar Falls, IA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:31.0) Gecko/20100101 Firefox/31.0
+7136|1541160714796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
+7137|1541160895796|44|paid|||157|Waterloo-Cedar Falls, IA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:31.0) Gecko/20100101 Firefox/31.0
+7138|1541160936796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
+7139|1541161024796|44|paid|||157|Waterloo-Cedar Falls, IA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:31.0) Gecko/20100101 Firefox/31.0
+7140|1541161144796|86|free|||189|La Crosse-Onalaska, WI-MN|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.94 Safari/537.36
+7141|1541161175796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
+7142|1541161381796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
+7143|1541161550796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
+7144|1541161822796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
+7145|1541162141796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
+7146|1541162370796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
+7147|1541162691796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
+7148|1541162912796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
+7149|1541163225796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
+7150|1541163454796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
+7151|1541163717796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
+7152|1541163997796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
+7153|1541164243796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
+7154|1541164499796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
+7155|1541164706796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
+7156|1541164749796|100|free|||174|New York-Newark-Jersey City, NY-NJ-PA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.78.2 (KHTML, like Gecko) Version/7.0.6 Safari/537.78.2
+7157|1541164945796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
+7158|1541165138796|100|free|||174|New York-Newark-Jersey City, NY-NJ-PA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.78.2 (KHTML, like Gecko) Version/7.0.6 Safari/537.78.2
+7159|1541165328796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
+7160|1541165410796|100|free|||174|New York-Newark-Jersey City, NY-NJ-PA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.78.2 (KHTML, like Gecko) Version/7.0.6 Safari/537.78.2
+7161|1541165583796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
+7162|1541165904796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
+7163|1541166099796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
+7164|1541166273796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
+7165|1541166621796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
+7166|1541166847796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
+7167|1541167096796|15|paid|||172|Chicago-Naperville-Elgin, IL-IN-WI|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
+7168|1541168577796|80|free|||194|Portland-South Portland, ME|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7169|1541168813796|80|free|||194|Portland-South Portland, ME|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7170|1541169160796|80|free|||194|Portland-South Portland, ME|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7171|1541170090796|86|free|||197|La Crosse-Onalaska, WI-MN|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.94 Safari/537.36
+7172|1541172234796|26|free|||183|San Jose-Sunnyvale-Santa Clara, CA|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
+7173|1541172424796|26|free|||183|San Jose-Sunnyvale-Santa Clara, CA|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
+7174|1541172593796|26|free|||183|San Jose-Sunnyvale-Santa Clara, CA|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
+7175|1541172804796|26|free|||183|San Jose-Sunnyvale-Santa Clara, CA|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
+7176|1541173059796|26|free|||183|San Jose-Sunnyvale-Santa Clara, CA|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
+7177|1541173221796|61|free|||60|Houston-The Woodlands-Sugar Land, TX|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+7178|1541173396796|61|free|||60|Houston-The Woodlands-Sugar Land, TX|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+7179|1541174803796|88|free|||193|Sacramento--Roseville--Arden-Arcade, CA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7180|1541175054796|88|free|||193|Sacramento--Roseville--Arden-Arcade, CA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7181|1541175153796|88|free|||193|Sacramento--Roseville--Arden-Arcade, CA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7182|1541175433796|88|free|||193|Sacramento--Roseville--Arden-Arcade, CA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7183|1541175530796|75|free|||167|Columbia, SC|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.75.14 (KHTML, like Gecko) Version/7.0.3 Safari/537.75.14
+7184|1541175733796|75|free|||167|Columbia, SC|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.75.14 (KHTML, like Gecko) Version/7.0.3 Safari/537.75.14
+7185|1541175894796|75|free|||167|Columbia, SC|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.75.14 (KHTML, like Gecko) Version/7.0.3 Safari/537.75.14
+7186|1541176076796|75|free|||167|Columbia, SC|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.75.14 (KHTML, like Gecko) Version/7.0.3 Safari/537.75.14
+7187|1541176254796|75|free|||167|Columbia, SC|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.75.14 (KHTML, like Gecko) Version/7.0.3 Safari/537.75.14
+7188|1541176327796|88|free|||205|Sacramento--Roseville--Arden-Arcade, CA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7189|1541176371796|88|free|||205|Sacramento--Roseville--Arden-Arcade, CA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7190|1541176487796|75|free|||167|Columbia, SC|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.75.14 (KHTML, like Gecko) Version/7.0.3 Safari/537.75.14
+7191|1541176500796|50|free|||156|New Haven-Milford, CT|Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7192|1541176735796|75|free|||167|Columbia, SC|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.75.14 (KHTML, like Gecko) Version/7.0.3 Safari/537.75.14
+7193|1541176739796|50|free|||156|New Haven-Milford, CT|Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7194|1541177162796|75|free|||167|Columbia, SC|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.75.14 (KHTML, like Gecko) Version/7.0.3 Safari/537.75.14
+7195|1541177384796|75|free|||167|Columbia, SC|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.75.14 (KHTML, like Gecko) Version/7.0.3 Safari/537.75.14
+7196|1541177497796|75|free|||167|Columbia, SC|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.75.14 (KHTML, like Gecko) Version/7.0.3 Safari/537.75.14
+7197|1541177709796|75|free|||167|Columbia, SC|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.75.14 (KHTML, like Gecko) Version/7.0.3 Safari/537.75.14
+7198|1541178038796|75|free|||167|Columbia, SC|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.75.14 (KHTML, like Gecko) Version/7.0.3 Safari/537.75.14
+7199|1541178784796|10|free|||182|Washington-Arlington-Alexandria, DC-VA-MD-WV|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+7200|1541179117796|10|free|||182|Washington-Arlington-Alexandria, DC-VA-MD-WV|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+7201|1541179528796|10|free|||182|Washington-Arlington-Alexandria, DC-VA-MD-WV|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+7202|1541179905796|10|free|||182|Washington-Arlington-Alexandria, DC-VA-MD-WV|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+7203|1541181317796|50|free|||207|New Haven-Milford, CT|Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7204|1541181542796|50|free|||207|New Haven-Milford, CT|Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7205|1541181762796|50|free|||207|New Haven-Milford, CT|Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7206|1541183813796|71|free|||70|Columbia, SC|Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D201 Safari/9537.53
+7207|1541183943796|71|free|||70|Columbia, SC|Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D201 Safari/9537.53
+7208|1541184144796|71|free|||70|Columbia, SC|Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D201 Safari/9537.53
+7209|1541184339796|71|free|||70|Columbia, SC|Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D201 Safari/9537.53
+7210|1541187675796|54|free|||53|Yuba City, CA|Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+7211|1541191023796|3|free|||112|Saginaw, MI|Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+7212|1541191251796|3|free|||112|Saginaw, MI|Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+7213|1541191397796|3|free|||112|Saginaw, MI|Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+7214|1541106106796|8|free|||139|Phoenix-Mesa-Scottsdale, AZ|Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36
+7215|1541106352796|8|free|||139|Phoenix-Mesa-Scottsdale, AZ|Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36
+7216|1541106496796|8|free|||139|Phoenix-Mesa-Scottsdale, AZ|Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36
+7217|1541106673796|8|free|||139|Phoenix-Mesa-Scottsdale, AZ|Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36
+7218|1541107053796|8|free|||139|Phoenix-Mesa-Scottsdale, AZ|Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36
+7219|1541107493796|8|free|||139|Phoenix-Mesa-Scottsdale, AZ|Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36
+7220|1541107734796|8|free|||139|Phoenix-Mesa-Scottsdale, AZ|Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36
+7221|1541108520796|10|free|||9|Washington-Arlington-Alexandria, DC-VA-MD-WV|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+7222|1541109125796|26|free|||169|San Jose-Sunnyvale-Santa Clara, CA|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
+7223|1541109325796|26|free|||169|San Jose-Sunnyvale-Santa Clara, CA|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
+7224|1541110994796|101|free|||100|New Orleans-Metairie, LA|Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7225|1543449657796|73|paid|||954|Tampa-St. Petersburg-Clearwater, FL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.78.2 (KHTML, like Gecko) Version/7.0.6 Safari/537.78.2
+7226|1543449690796|24|paid|||984|Lake Havasu City-Kingman, AZ|Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+7227|1543449841796|24|paid|||984|Lake Havasu City-Kingman, AZ|Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+7228|1543449895796|73|paid|||954|Tampa-St. Petersburg-Clearwater, FL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.78.2 (KHTML, like Gecko) Version/7.0.6 Safari/537.78.2
+7229|1543450033796|24|paid|||984|Lake Havasu City-Kingman, AZ|Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+7230|1543450256796|24|paid|||984|Lake Havasu City-Kingman, AZ|Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+7231|1543450264796|73|paid|||954|Tampa-St. Petersburg-Clearwater, FL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.78.2 (KHTML, like Gecko) Version/7.0.6 Safari/537.78.2
+7232|1543450450796|73|paid|||954|Tampa-St. Petersburg-Clearwater, FL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.78.2 (KHTML, like Gecko) Version/7.0.6 Safari/537.78.2
+7233|1543450562796|24|paid|||984|Lake Havasu City-Kingman, AZ|Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+7234|1543450691796|24|paid|||984|Lake Havasu City-Kingman, AZ|Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+7235|1543450933796|24|paid|||984|Lake Havasu City-Kingman, AZ|Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+7236|1543451175796|24|paid|||984|Lake Havasu City-Kingman, AZ|Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+7237|1543451453796|24|paid|||984|Lake Havasu City-Kingman, AZ|Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+7238|1543451707796|24|paid|||984|Lake Havasu City-Kingman, AZ|Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+7239|1543452014796|24|paid|||984|Lake Havasu City-Kingman, AZ|Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+7240|1543452253796|24|paid|||984|Lake Havasu City-Kingman, AZ|Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+7241|1543452394796|24|paid|||984|Lake Havasu City-Kingman, AZ|Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+7242|1543452588796|24|paid|||984|Lake Havasu City-Kingman, AZ|Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+7243|1543453030796|24|paid|||984|Lake Havasu City-Kingman, AZ|Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+7244|1543453332796|24|paid|||984|Lake Havasu City-Kingman, AZ|Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+7245|1543453596796|24|paid|||984|Lake Havasu City-Kingman, AZ|Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+7246|1543453763796|50|free|||1011|New Haven-Milford, CT|Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7247|1543453798796|24|paid|||984|Lake Havasu City-Kingman, AZ|Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+7248|1543454037796|24|paid|||984|Lake Havasu City-Kingman, AZ|Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+7249|1543454254796|24|paid|||984|Lake Havasu City-Kingman, AZ|Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+7250|1543454533796|24|paid|||984|Lake Havasu City-Kingman, AZ|Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+7251|1543454778796|24|paid|||984|Lake Havasu City-Kingman, AZ|Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+7252|1543455073796|24|paid|||984|Lake Havasu City-Kingman, AZ|Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+7253|1543455218796|24|paid|||984|Lake Havasu City-Kingman, AZ|Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+7254|1543455510796|24|paid|||984|Lake Havasu City-Kingman, AZ|Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+7255|1543455747796|24|paid|||984|Lake Havasu City-Kingman, AZ|Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+7256|1543456010796|24|paid|||984|Lake Havasu City-Kingman, AZ|Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+7257|1543456346796|24|paid|||984|Lake Havasu City-Kingman, AZ|Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+7258|1543456517796|24|paid|||984|Lake Havasu City-Kingman, AZ|Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+7259|1543458271796|54|free|||951|Yuba City, CA|Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+7260|1543458485796|54|free|||951|Yuba City, CA|Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+7261|1543458671796|54|free|||951|Yuba City, CA|Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+7262|1543458973796|54|free|||951|Yuba City, CA|Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+7263|1543459210796|54|free|||951|Yuba City, CA|Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+7264|1543460277796|32|free|||1045|New York-Newark-Jersey City, NY-NJ-PA|Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+7265|1543460442796|32|free|||1045|New York-Newark-Jersey City, NY-NJ-PA|Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+7266|1543460835796|4|free|||587|Parkersburg-Vienna, WV|Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+7267|1543465636796|52|free|||990|Houston-The Woodlands-Sugar Land, TX|Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+7268|1543465913796|52|free|||990|Houston-The Woodlands-Sugar Land, TX|Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+7269|1543467355796|14|free|||1038|Red Bluff, CA|Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+7270|1543467608796|14|free|||1038|Red Bluff, CA|Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+7271|1543479522796|98|free|||865|Philadelphia-Camden-Wilmington, PA-NJ-DE-MD|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7272|1543479789796|98|free|||865|Philadelphia-Camden-Wilmington, PA-NJ-DE-MD|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7273|1543489167796|101|free|||1016|New Orleans-Metairie, LA|Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7274|1543489392796|101|free|||1016|New Orleans-Metairie, LA|Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7275|1543489411796|78|free|||931|Indianapolis-Carmel-Anderson, IN|Mozilla/5.0 (Windows NT 6.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7276|1543489639796|101|free|||1016|New Orleans-Metairie, LA|Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7277|1543489857796|101|free|||1016|New Orleans-Metairie, LA|Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7278|1543494067796|10|free|||1005|Washington-Arlington-Alexandria, DC-VA-MD-WV|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+7279|1543497251796|52|free|||1055|Houston-The Woodlands-Sugar Land, TX|Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+7280|1543499907796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7281|1543500081796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7282|1543500313796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7283|1543500608796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7284|1543500844796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7285|1543501070796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7286|1543501334796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7287|1543501583796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7288|1543501951796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7289|1543502144796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7290|1543502436796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7291|1543502609796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7292|1543502867796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7293|1543503072796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7294|1543503345796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7295|1543503472796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7296|1543503771796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7297|1543503949796|16|paid|||983|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+7298|1543504012796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7299|1543504184796|16|paid|||983|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+7300|1543504268796|32|free|||1058|New York-Newark-Jersey City, NY-NJ-PA|Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+7301|1543504295796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7302|1543504307796|26|free|||1046|San Jose-Sunnyvale-Santa Clara, CA|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
+7303|1543504368796|16|paid|||983|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+7304|1543504474796|32|free|||1058|New York-Newark-Jersey City, NY-NJ-PA|Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+7305|1543504528796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7306|1543504536796|16|paid|||983|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+7307|1543504573796|26|free|||1046|San Jose-Sunnyvale-Santa Clara, CA|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
+7308|1543504738796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7309|1543504772796|16|paid|||983|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+7310|1543504830796|79|free|||761|Dallas-Fort Worth-Arlington, TX|Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+7311|1543504839796|26|free|||1046|San Jose-Sunnyvale-Santa Clara, CA|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
+7312|1543504958796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7313|1543505055796|16|paid|||983|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+7314|1543505200796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7315|1543505221796|26|free|||1046|San Jose-Sunnyvale-Santa Clara, CA|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
+7316|1543505257796|16|paid|||983|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+7317|1543505381796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7318|1543505401796|16|paid|||983|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+7319|1543505457796|26|free|||1046|San Jose-Sunnyvale-Santa Clara, CA|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36
+7320|1543505618796|16|paid|||983|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+7321|1543505656796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7322|1543505792796|16|paid|||983|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+7323|1543505836796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7324|1543505979796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7325|1543506077796|16|paid|||983|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+7326|1543506117796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7327|1543506338796|16|paid|||983|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+7328|1543506341796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7329|1543506556796|16|paid|||983|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+7330|1543506578796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7331|1543506819796|16|paid|||983|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+7332|1543506852796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7333|1543507055796|16|paid|||983|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+7334|1543507075796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7335|1543507201796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7336|1543507253796|16|paid|||983|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+7337|1543507446796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7338|1543507540796|16|paid|||983|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+7339|1543507627796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7340|1543507751796|16|paid|||983|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+7341|1543507764796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7342|1543507889796|16|paid|||983|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+7343|1543508003796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7344|1543508134796|16|paid|||983|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+7345|1543508305796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7346|1543508370796|16|paid|||983|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+7347|1543508544796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7348|1543508607796|16|paid|||983|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+7349|1543508781796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7350|1543508892796|16|paid|||983|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+7351|1543509005796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7352|1543509079796|16|paid|||983|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+7353|1543509243796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7354|1543509405796|16|paid|||983|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+7355|1543509509796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7356|1543509632796|16|paid|||983|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+7357|1543509693796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7358|1543509697796|16|paid|||983|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+7359|1543509879796|16|paid|||983|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+7360|1543509938796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7361|1543510058796|16|paid|||983|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+7362|1543510062796|82|paid|||1017|Atlanta-Sandy Springs-Roswell, GA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.94 Safari/537.36
+7363|1543510165796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7364|1543510216796|16|paid|||983|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+7365|1543510462796|16|paid|||983|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+7366|1543510467796|82|paid|||1017|Atlanta-Sandy Springs-Roswell, GA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.94 Safari/537.36
+7367|1543510481796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7368|1543510514796|44|paid|||1003|Waterloo-Cedar Falls, IA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:31.0) Gecko/20100101 Firefox/31.0
+7369|1543510681796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7370|1543510683796|82|paid|||1017|Atlanta-Sandy Springs-Roswell, GA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.94 Safari/537.36
+7371|1543510691796|16|paid|||983|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+7372|1543510881796|16|paid|||983|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+7373|1543510894796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7374|1543510901796|82|paid|||1017|Atlanta-Sandy Springs-Roswell, GA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.94 Safari/537.36
+7375|1543510909796|44|paid|||1003|Waterloo-Cedar Falls, IA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:31.0) Gecko/20100101 Firefox/31.0
+7376|1543511110796|16|paid|||983|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+7377|1543511120796|44|paid|||1003|Waterloo-Cedar Falls, IA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:31.0) Gecko/20100101 Firefox/31.0
+7378|1543511126796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7379|1543511176796|4|free|||1054|Parkersburg-Vienna, WV|Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+7380|1543511208796|82|paid|||1017|Atlanta-Sandy Springs-Roswell, GA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.94 Safari/537.36
+7381|1543511353796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7382|1543511354796|16|paid|||983|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+7383|1543511414796|82|paid|||1017|Atlanta-Sandy Springs-Roswell, GA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.94 Safari/537.36
+7384|1543511554796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7385|1543511635796|16|paid|||983|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+7386|1543511662796|82|paid|||1017|Atlanta-Sandy Springs-Roswell, GA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.94 Safari/537.36
+7387|1543511771796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7388|1543511881796|82|paid|||1017|Atlanta-Sandy Springs-Roswell, GA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.94 Safari/537.36
+7389|1543511913796|16|paid|||983|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+7390|1543511966796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7391|1543512121796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7392|1543512147796|16|paid|||983|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+7393|1543512181796|82|paid|||1017|Atlanta-Sandy Springs-Roswell, GA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.94 Safari/537.36
+7394|1543512272796|16|paid|||983|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+7395|1543512344796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7396|1543512443796|82|paid|||1017|Atlanta-Sandy Springs-Roswell, GA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.94 Safari/537.36
+7397|1543512518796|16|paid|||983|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+7398|1543512687796|82|paid|||1017|Atlanta-Sandy Springs-Roswell, GA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.94 Safari/537.36
+7399|1543512720796|82|paid|||1017|Atlanta-Sandy Springs-Roswell, GA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.94 Safari/537.36
+7400|1543512802796|16|paid|||983|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+7401|1543512929796|82|paid|||1017|Atlanta-Sandy Springs-Roswell, GA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.94 Safari/537.36
+7402|1543513171796|82|paid|||1017|Atlanta-Sandy Springs-Roswell, GA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.94 Safari/537.36
+7403|1543513188796|16|paid|||983|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+7404|1543513262796|75|free|||721|Columbia, SC|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.75.14 (KHTML, like Gecko) Version/7.0.3 Safari/537.75.14
+7405|1543513314796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7406|1543513401796|75|free|||721|Columbia, SC|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.75.14 (KHTML, like Gecko) Version/7.0.3 Safari/537.75.14
+7407|1543513534796|16|paid|||983|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+7408|1543513551796|39|free|||1047|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7409|1543513705796|82|paid|||1017|Atlanta-Sandy Springs-Roswell, GA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.94 Safari/537.36
+7410|1543513787796|75|free|||721|Columbia, SC|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.75.14 (KHTML, like Gecko) Version/7.0.3 Safari/537.75.14
+7411|1543513811796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7412|1543513872796|16|paid|||983|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+7413|1543513938796|82|paid|||1017|Atlanta-Sandy Springs-Roswell, GA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.94 Safari/537.36
+7414|1543514025796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7415|1543514154796|82|paid|||1017|Atlanta-Sandy Springs-Roswell, GA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.94 Safari/537.36
+7416|1543514189796|16|paid|||983|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+7417|1543514338796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7418|1543514393796|82|paid|||1017|Atlanta-Sandy Springs-Roswell, GA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.94 Safari/537.36
+7419|1543514497796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7420|1543514598796|16|paid|||983|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+7421|1543514618796|82|paid|||1017|Atlanta-Sandy Springs-Roswell, GA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.94 Safari/537.36
+7422|1543514739796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7423|1543514875796|16|paid|||983|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+7424|1543514877796|82|paid|||1017|Atlanta-Sandy Springs-Roswell, GA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.94 Safari/537.36
+7425|1543514941796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7426|1543515060796|16|paid|||983|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+7427|1543515175796|82|paid|||1017|Atlanta-Sandy Springs-Roswell, GA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.94 Safari/537.36
+7428|1543515182796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7429|1543515225796|44|paid|||1069|Waterloo-Cedar Falls, IA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:31.0) Gecko/20100101 Firefox/31.0
+7430|1543515284796|16|paid|||983|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+7431|1543515453796|82|paid|||1017|Atlanta-Sandy Springs-Roswell, GA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.94 Safari/537.36
+7432|1543515489796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7433|1543515672796|82|paid|||1017|Atlanta-Sandy Springs-Roswell, GA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.94 Safari/537.36
+7434|1543515684796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7435|1543515712796|16|paid|||983|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+7436|1543515869796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7437|1543515878796|82|paid|||1017|Atlanta-Sandy Springs-Roswell, GA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.94 Safari/537.36
+7438|1543515987796|16|paid|||983|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+7439|1543516013796|16|paid|||983|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+7440|1543516044796|82|paid|||1017|Atlanta-Sandy Springs-Roswell, GA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.94 Safari/537.36
+7441|1543516114796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7442|1543516190796|82|paid|||1017|Atlanta-Sandy Springs-Roswell, GA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.94 Safari/537.36
+7443|1543516215796|16|paid|||983|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+7444|1543516384796|16|paid|||983|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+7445|1543516415796|82|paid|||1017|Atlanta-Sandy Springs-Roswell, GA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.94 Safari/537.36
+7446|1543516645796|16|paid|||983|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+7447|1543516673796|82|paid|||1017|Atlanta-Sandy Springs-Roswell, GA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.94 Safari/537.36
+7448|1543516869796|16|paid|||983|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+7449|1543517011796|82|paid|||1017|Atlanta-Sandy Springs-Roswell, GA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.94 Safari/537.36
+7450|1543517170796|16|paid|||983|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+7451|1543517250796|82|paid|||1017|Atlanta-Sandy Springs-Roswell, GA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.94 Safari/537.36
+7452|1543517454796|16|paid|||983|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+7453|1543517520796|82|paid|||1017|Atlanta-Sandy Springs-Roswell, GA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.94 Safari/537.36
+7454|1543517724796|16|paid|||983|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+7455|1543517730796|82|paid|||1017|Atlanta-Sandy Springs-Roswell, GA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.94 Safari/537.36
+7456|1543517913796|16|paid|||983|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+7457|1543518017796|82|paid|||1017|Atlanta-Sandy Springs-Roswell, GA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.94 Safari/537.36
+7458|1543518100796|16|paid|||983|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+7459|1543518238796|82|paid|||1017|Atlanta-Sandy Springs-Roswell, GA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.94 Safari/537.36
+7460|1543518284796|82|paid|||1017|Atlanta-Sandy Springs-Roswell, GA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.94 Safari/537.36
+7461|1543518384796|16|paid|||983|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+7462|1543518521796|82|paid|||1017|Atlanta-Sandy Springs-Roswell, GA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.94 Safari/537.36
+7463|1543518587796|82|paid|||1017|Atlanta-Sandy Springs-Roswell, GA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.94 Safari/537.36
+7464|1543518699796|16|paid|||983|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+7465|1543518784796|82|paid|||1017|Atlanta-Sandy Springs-Roswell, GA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.94 Safari/537.36
+7466|1543518896796|16|paid|||983|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+7467|1543518933796|82|paid|||1017|Atlanta-Sandy Springs-Roswell, GA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.94 Safari/537.36
+7468|1543519207796|16|paid|||983|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+7469|1543519479796|82|paid|||1017|Atlanta-Sandy Springs-Roswell, GA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.94 Safari/537.36
+7470|1543519591796|16|paid|||983|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+7471|1543520246796|16|paid|||983|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+7472|1543520417796|16|paid|||983|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+7473|1543520718796|16|paid|||983|Birmingham-Hoover, AL|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+7474|1543521962796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7475|1543522138796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7476|1543522267796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7477|1543522473796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7478|1543522715796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7479|1543522901796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7480|1543523119796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7481|1543523363796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7482|1543523673796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7483|1543523921796|80|paid|||1065|Portland-South Portland, ME|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7484|1543523950796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7485|1543524186796|80|paid|||1065|Portland-South Portland, ME|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7486|1543524187796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7487|1543524407796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7488|1543524414796|80|paid|||1065|Portland-South Portland, ME|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7489|1543524670796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7490|1543524725796|80|paid|||1065|Portland-South Portland, ME|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7491|1543524847796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7492|1543524881796|80|paid|||1065|Portland-South Portland, ME|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7493|1543525124796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7494|1543525203796|80|paid|||1065|Portland-South Portland, ME|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7495|1543525267796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7496|1543525400796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7497|1543525563796|80|paid|||1065|Portland-South Portland, ME|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7498|1543525595796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7499|1543525760796|80|paid|||1065|Portland-South Portland, ME|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7500|1543525976796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7501|1543526056796|55|free|||1008|Minneapolis-St. Paul-Bloomington, MN-WI|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.78.2 (KHTML, like Gecko) Version/7.0.6 Safari/537.78.2
+7502|1543526089796|80|paid|||1065|Portland-South Portland, ME|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7503|1543526213796|55|free|||1008|Minneapolis-St. Paul-Bloomington, MN-WI|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.78.2 (KHTML, like Gecko) Version/7.0.6 Safari/537.78.2
+7504|1543526250796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7505|1543526358796|80|paid|||1065|Portland-South Portland, ME|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7506|1543526457796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7507|1543526507796|55|free|||1008|Minneapolis-St. Paul-Bloomington, MN-WI|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.78.2 (KHTML, like Gecko) Version/7.0.6 Safari/537.78.2
+7508|1543526538796|80|paid|||1065|Portland-South Portland, ME|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7509|1543526643796|55|free|||1008|Minneapolis-St. Paul-Bloomington, MN-WI|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.78.2 (KHTML, like Gecko) Version/7.0.6 Safari/537.78.2
+7510|1543526675796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7511|1543526820796|80|paid|||1065|Portland-South Portland, ME|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7512|1543526868796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7513|1543526870796|12|free|||967|New York-Newark-Jersey City, NY-NJ-PA|Mozilla/5.0 (Windows NT 6.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7514|1543527047796|80|paid|||1065|Portland-South Portland, ME|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7515|1543527094796|49|paid|||1041|San Francisco-Oakland-Hayward, CA|Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+7516|1543527265796|80|paid|||1065|Portland-South Portland, ME|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7517|1543527268796|9|free|||1010|Eureka-Arcata-Fortuna, CA|Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+7518|1543527488796|80|paid|||1065|Portland-South Portland, ME|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7519|1543527730796|80|paid|||1065|Portland-South Portland, ME|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7520|1543528009796|80|paid|||1065|Portland-South Portland, ME|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7521|1543528377796|80|paid|||1065|Portland-South Portland, ME|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7522|1543528636796|80|paid|||1065|Portland-South Portland, ME|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7523|1543528831796|80|paid|||1065|Portland-South Portland, ME|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7524|1543529196796|80|paid|||1065|Portland-South Portland, ME|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7525|1543529397796|80|paid|||1065|Portland-South Portland, ME|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7526|1543529417796|22|free|||21|Philadelphia-Camden-Wilmington, PA-NJ-DE-MD|Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7527|1543529595796|80|paid|||1065|Portland-South Portland, ME|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7528|1543529618796|22|free|||21|Philadelphia-Camden-Wilmington, PA-NJ-DE-MD|Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7529|1543529858796|80|paid|||1065|Portland-South Portland, ME|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7530|1543530091796|80|paid|||1065|Portland-South Portland, ME|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7531|1543530451796|80|paid|||1065|Portland-South Portland, ME|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7532|1543530769796|80|paid|||1065|Portland-South Portland, ME|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7533|1543530944796|80|paid|||1065|Portland-South Portland, ME|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7534|1543531178796|80|paid|||1065|Portland-South Portland, ME|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7535|1543531372796|80|paid|||1065|Portland-South Portland, ME|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7536|1543531583796|80|paid|||1065|Portland-South Portland, ME|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7537|1543531827796|80|paid|||1065|Portland-South Portland, ME|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7538|1543531878796|74|free|||1007|Youngstown-Warren-Boardman, OH-PA|Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7539|1543532012796|80|paid|||1065|Portland-South Portland, ME|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7540|1543532242796|80|paid|||1065|Portland-South Portland, ME|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7541|1543532525796|80|paid|||1065|Portland-South Portland, ME|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7542|1543532713796|80|paid|||1065|Portland-South Portland, ME|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+7543|1543533515796|89|free|||1029|Cedar Rapids, IA|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
